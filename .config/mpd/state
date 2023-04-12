@@ -1,0 +1,49 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+current: 0
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Depeche Mode - Essentials (2018)/01 - Enjoy the Silence.mp3
+1:Depeche Mode - Essentials (2018)/02 - Personal Jesus.mp3
+2:Depeche Mode - Essentials (2018)/03 - Just Can't Get Enough.mp3
+3:Depeche Mode - Essentials (2018)/04 - People Are People.mp3
+4:Depeche Mode - Essentials (2018)/05 - Strangelove (Alt 7 Version).mp3
+5:Depeche Mode - Essentials (2018)/06 - I Feel You.mp3
+6:Depeche Mode - Essentials (2018)/07 - Never Let Me Down Again.mp3
+7:Depeche Mode - Essentials (2018)/08 - Everything Counts.mp3
+8:Depeche Mode - Essentials (2018)/09 - It's No Good.mp3
+9:Depeche Mode - Essentials (2018)/10 - Walking in My Shoes.mp3
+10:Depeche Mode - Essentials (2018)/11 - Precious.mp3
+11:Depeche Mode - Essentials (2018)/12 - Somebody.mp3
+12:Depeche Mode - Essentials (2018)/13 - Stripped.mp3
+13:Depeche Mode - Essentials (2018)/14 - Blasphemous Rumours (Single Version).mp3
+14:Depeche Mode - Essentials (2018)/15 - Behind the Wheel.mp3
+15:Depeche Mode - Essentials (2018)/16 - Shake the Disease.mp3
+16:Depeche Mode - Essentials (2018)/17 - Master and Servant.mp3
+17:Depeche Mode - Essentials (2018)/18 - Policy of Truth.mp3
+18:Depeche Mode - Essentials (2018)/19 - See You.mp3
+19:Depeche Mode - Essentials (2018)/20 - Heaven.mp3
+20:Depeche Mode - Essentials (2018)/21 - Dream On.mp3
+21:Depeche Mode - Essentials (2018)/22 - Wrong.mp3
+22:Depeche Mode - Essentials (2018)/23 - World In My Eyes.mp3
+23:Depeche Mode - Essentials (2018)/24 - A Question of Time.mp3
+24:Depeche Mode - Essentials (2018)/25 - Where's the Revolution.mp3
+25:svard songs/02 - dead weight.mp3
+26:svard songs/03 - face away.mp3
+27:svard songs/04 - leap year.mp3
+28:svard songs/05 - tough luck.mp3
+29:svard songs/01 - blender.mp3
+30:Red Hot Chili Peppers - Californication (1999)/01 - Around the World.mp3
+31:Red Hot Chili Peppers - Californication (1999)/03 - Scar Tissue.mp3
+32:Red Hot Chili Peppers - Californication (1999)/09 - Emit Remmus.mp3
+33:Pink Floyd - The Wall (1979)/04 - The Happiest Days of Our Lives.mp3
+34:Pink Floyd - The Wall (1979)/05 - Another Brick in the Wall, Pt. 2.mp3
+playlist_end

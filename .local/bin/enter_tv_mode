@@ -1,0 +1,8 @@
+#!/bin/bash
+
+xrandr --output HDMI-0 --auto
+
+sink=$(pacmd list-sinks | grep -B 1 hdmi-stereo | grep index | sed 's/[^0-9]*//g')
+pacmd set-default-sink $sink
+
+xrandr --output DP-4 --off

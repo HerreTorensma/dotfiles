@@ -1,0 +1,15 @@
+cursor:
+  style:
+    shape: Beam
+
+font:
+  #size: 10
+  normal:
+    family: JetBrains Mono
+    style: Regular
+
+window:
+  opacity: 0.8
+  padding:
+    x: 4
+    y: 4

@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --bg-fill $(head -n 1 $HOME/.current_wallpaper)

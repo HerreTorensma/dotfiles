@@ -1,0 +1,11 @@
+#!/bin/sh
+
+echo "Writing filename..."
+echo $(realpath $1) > $HOME/.current_wallpaper
+echo "Generating color schemes..."
+wal -i $1 >/dev/null
+sed -i 'N;$!P;D' $HOME/.cache/wal/colors-wal-dwm.h
+echo "Recompiling dwm..."
+(cd $HOME/.local/src/dwm && sudo make clean install>/dev/null)
+
+echo "You can restart dwm now..."

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+xrandr --output DP-4 --auto
+
+sink=$(pacmd list-sinks | grep -B 1 HyperX | grep index | sed 's/[^0-9]*//g')
+pacmd set-default-sink $sink
+
+xrandr --output HDMI-0 --off
