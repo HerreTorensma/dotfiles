@@ -14,6 +14,7 @@ PS1="[\[$(tput sgr0)\]\[\033[38;5;9m\]\u\[$(tput sgr0)\]@\[$(tput sgr0)\]\[\033[
 PATH="$PATH:~/.local/bin"
 
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias clear='clear && pfetch'
 
 (cat ~/.cache/wal/sequences)
 
