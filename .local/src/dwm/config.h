@@ -6,8 +6,8 @@ static const unsigned int gappx     = 24;
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "JetBrains Mono:size=10", "FontAwesome6Brands:size=10", "FontAwesome6Free:size=10", "FontAwesome6Free:style=Solid:size=10" };
-static const char dmenufont[]       = "JetBrains Mono:size=10";
+static const char *fonts[]          = { "JetBrains Mono:size=9", "FontAwesome6Brands:size=9", "FontAwesome6Free:size=9", "FontAwesome6Free:style=Solid:size=9" };
+static const char dmenufont[]       = "JetBrains Mono:size=9";
 
 #include "/home/herret/.cache/wal/colors-wal-dwm.h"
 
