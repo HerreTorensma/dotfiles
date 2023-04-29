@@ -13,7 +13,7 @@ static const char dmenufont[]       = "JetBrains Mono:size=9";
 #include "/home/herret/.cache/wal/colors-wal-dwm.h"
 
 /* tagging */
-static const char *tags[] = { ">_", "", "{}", "", "", "" };
+static const char *tags[] = { ">_", "", "{}", "", "", "", "", "", "" };
 
 static const Rule rules[] = {
 	/* xprop(1):
